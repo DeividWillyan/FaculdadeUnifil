@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=verifica
+comment0.target=java.lang.String\ exercicio4(java.lang.String[])
+comment0.text=\n\ \ Fa\u00E7a\ um\ m\u00E9todo\ static\ na\ classe\ Principal\ que\ receba\ um\ conjunto\ de\ palavras\ em\n\ \ um\ arranjo\ (vetor)\ e\ escreva\ na\ tela\ apenas\ as\ palavras\ que\ s\u00E3o\ pal\u00EDndromos.\n\ \ \n\ \ @param\ verifica\ recebe\ um\ arranjo\ de\ palavras.\n\ \ @return\ retorna\ as\ palavras\ palindromes\ do\ arranjo.\n\ \ \n
+numComments=1

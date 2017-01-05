@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tempo
+comment1.params=
+comment1.target=Tempo()
+comment2.params=text
+comment2.target=Tempo(java.lang.String)
+comment3.params=text
+comment3.target=void\ setText(java.lang.String)
+numComments=4

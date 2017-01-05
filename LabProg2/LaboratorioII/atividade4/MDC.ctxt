@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ isPrimo()
+comment0.text=\ public\ int\ A()\ {\n\ \ \ \ \ \ \ \ \n\ \ \ \ return\ p;\n}
+comment1.params=numero
+comment1.target=boolean\ CalculaPrimo(int)
+numComments=2

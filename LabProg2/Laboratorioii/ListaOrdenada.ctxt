@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=capacidade
+comment0.target=ListaOrdenada(int)
+comment1.params=
+comment1.target=ListaOrdenada()
+comment2.params=obj
+comment2.target=int\ inserir(java.lang.Comparable)
+comment3.params=pos
+comment3.target=java.lang.Comparable\ remover(int)
+comment4.params=obj
+comment4.target=int\ buscar(java.lang.Comparable)
+comment5.params=pos
+comment5.target=java.lang.Comparable\ elementoEm(int)
+comment6.params=
+comment6.target=void\ limpar()
+numComments=7

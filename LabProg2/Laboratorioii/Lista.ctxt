@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=capacidade
+comment0.target=Lista(int)
+comment1.params=
+comment1.target=Lista()
+comment2.params=objeto\ pos
+comment2.target=int\ inserir(java.lang.Object,\ int)
+comment3.params=pos
+comment3.target=java.lang.Object\ remover(int)
+comment4.params=object
+comment4.target=int\ buscar(java.lang.Object)
+comment5.params=
+comment5.target=void\ expandir()
+numComments=6

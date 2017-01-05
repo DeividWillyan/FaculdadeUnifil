@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=vetor
+comment0.target=void\ orderPorSelecao(int[])
+comment1.params=vetor
+comment1.target=void\ ordenarPorBolha(int[])
+comment1.text=-----------------------------------------------Deivid-----------------------------------
+comment2.params=monteComprado
+comment2.target=void\ ordenarPorInsercao(int[])
+comment2.text=------------------------------------------------------------Deivid-----------------------------------
+comment3.params=ordenado\ i\ j
+comment3.target=void\ trocar(int[],\ int,\ int)
+numComments=4

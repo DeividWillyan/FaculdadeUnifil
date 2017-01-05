@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TorresDeHanoi
+comment1.params=v1\ v2\ v3
+comment1.target=void\ run(java.lang.Integer,\ java.lang.Integer,\ java.lang.Integer)
+comment2.params=x\ y
+comment2.target=void\ movimentar(java.lang.Integer,\ java.lang.Integer)
+comment3.params=x\ y
+comment3.target=void\ move(java.lang.Integer,\ java.lang.Integer)
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Node
+comment1.params=
+comment1.target=Node\ getProximo()
+comment2.params=proximo
+comment2.target=void\ setProximo(Node)
+comment3.params=
+comment3.target=java.lang.Integer\ getTamanho()
+comment4.params=tamanho
+comment4.target=void\ setTamanho(java.lang.Integer)
+numComments=5

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=int\ metFibonacci(int)
+comment0.text=\n\ \ Fa\u00E7a\ um\ m\u00E9todo\ static\ na\ classe\ Principal\ que\ calcule\ o\ n\u00FAmero\ de\ fibonacci,\ dado\n\ \ um\ valor\ recebido\ por\ par\u00E2metro.\ Lembre-se\ que\ fib(0)\ \=\ 0,\ fib(1)\ \=\ 1\ e\ todo\ outro\n\ \ fib(x)\ \=\ fib(x\ \u2212\ 1)\ +\ fib(x\ \u2212\ 2).\ \n\ \ \n\ \ @param\ x\ recebe\ um\ numero\ inteiro\ para\ fazer\ o\ calculo\ fibonacci.\n\ \ @return\ retorna\ o\ resultado\ do\ calculo\ fibonacci\n
+numComments=1

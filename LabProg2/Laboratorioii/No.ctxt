@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=No\ getProximo()
+comment1.params=proximo
+comment1.target=void\ setProximo(No)
+comment2.params=
+comment2.target=java.lang.Object\ getValor()
+comment3.params=valor
+comment3.target=void\ setValor(java.lang.Object)
+numComments=4

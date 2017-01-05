@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=capacidade
+comment0.target=Fila(int)
+comment1.params=
+comment1.target=Fila()
+comment2.params=objeto
+comment2.target=void\ enfileirar(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ desenfileirar()
+comment4.params=
+comment4.target=java.lang.Object\ primeiro()
+numComments=5

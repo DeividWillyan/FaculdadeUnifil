@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=int\ ArrayInt(int[])
+comment0.text=\ \n\ \ \ Fa\u00E7a\ um\ m\u00E9todo\ static\ na\ classe\ Principal\ que\ receba,\ como\ par\u00E2metro,\ um\ arranjo\n\ \ \ de\ n\u00FAmeros\ inteiros\ e\ retorne\ o\ somat\u00F3rio\ de\ seus\ valores.\ \n\ \ \ \n\ \ \ @param\ num\ recebe\ um\ arranjo\ de\ numeros\ do\ tipo\ inteiro\ para\ a\ somatoria.\n\ \ \ @return\ retorna\ a\ somatoria\ do\ arranjo\ do\ parametro\ num.\n\ \ \ \n
+numComments=1

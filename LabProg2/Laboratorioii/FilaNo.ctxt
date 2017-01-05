@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FilaNo()
+comment1.params=objeto
+comment1.target=void\ enfileirar(java.lang.Object)
+comment2.params=
+comment2.target=void\ desenfileirar()
+comment3.params=
+comment3.target=java.lang.Object\ primeiro()
+numComments=4

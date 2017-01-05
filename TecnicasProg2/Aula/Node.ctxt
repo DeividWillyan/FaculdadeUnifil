@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getnipe()
+comment1.params=nipe
+comment1.target=void\ setnipe(java.lang.String)
+comment2.params=
+comment2.target=int\ getcarta()
+comment3.params=carta
+comment3.target=void\ setcarta(int)
+comment4.params=
+comment4.target=Node\ getProximo()
+comment5.params=proximo
+comment5.target=void\ setProximo(Node)
+numComments=6

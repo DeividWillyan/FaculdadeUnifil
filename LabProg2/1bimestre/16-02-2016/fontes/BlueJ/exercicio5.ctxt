@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ pares()
+comment0.text=\n\ \ \ Fa\u00E7a\ um\ m\u00E9todo\ static\ na\ classe\ Principal\ que\ escreva\ na\ tela\ todos\ os\ n\u00FAmeros\ pares\n\ \ \ de\ 1\ a\ 10000\ que\ s\u00E3o\ pal\u00EDndromos.\n\ \n\ \ \ @return\ retorna\ o\ valor\ final\ do\ numero\ par\ que\ \u00E9\ palindromo.\ \n
+numComments=1

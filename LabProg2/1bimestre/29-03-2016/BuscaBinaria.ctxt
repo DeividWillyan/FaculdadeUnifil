@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=arr\ elem
+comment0.target=int\ buscaBin(int[],\ int)
+comment0.text=\n\ \ \ \ \n\ \ \ \ \ \ \ @param\ arr\ arranjo\ de\ numeros\ para\ busca\ sequencial\n\ \ \ \ \ \ \ @param\ elem\ numero\ buscado\n\ \ \ \ \ \ \ @return\ retorna\ o\ valor\ do\ elemento\ buscado\ ou\ -1\ no\ caso\ de\ n\u00E3o\ encontrado.\ \ \ \ \ \ \ \n\ \ \ \ \n
+numComments=1

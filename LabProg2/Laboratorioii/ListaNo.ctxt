@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaNo()
+comment1.params=objeto\ pos
+comment1.target=void\ inserir(java.lang.Object,\ int)
+comment2.params=
+comment2.target=void\ remover()
+comment3.params=objeto
+comment3.target=java.lang.Object\ buscar(java.lang.Object)
+numComments=4

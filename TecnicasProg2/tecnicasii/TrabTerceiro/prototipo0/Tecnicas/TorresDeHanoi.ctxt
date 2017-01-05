@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ autoInsert()
+comment0.text=\ public\ void\ insert(Integer\ pilha,\ Integer\ valor)\ {\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ switch\ (pilha)\ {\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ case\ 1\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ p1.empilhar(valor);\r\n\ \ \ \ \ \ \ \ \ \ \ \ break;\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ case\ 2\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ p2.empilhar(valor);\r\n\ \ \ \ \ \ \ \ \ \ \ \ break;\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ case\ 3\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ p3.empilhar(valor);\r\n\ \ \ \ \ \ \ \ \ \ \ \ break;\r\n\ \ \ \ \ \ \ \ \ \ \ \ default\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println("Escolha\ as\ Pilhas\ 1,\ 2\ ou\ 3.");\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ }\ \ \ \ \ \ \ \ \ \ \r\n}
+comment1.params=de\ para
+comment1.target=void\ move(java.lang.Integer,\ java.lang.Integer)
+numComments=2

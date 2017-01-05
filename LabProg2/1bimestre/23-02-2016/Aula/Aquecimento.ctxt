@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=valores
+comment0.target=int\ somatorio(int[])
+comment0.text=\n\ \ Realiza\ a\ somatoria.\n\ \ \n\ \ @param\ valores,\ array\ de\ valores\ para\ a\ soma.\n\ \ @return\ retorna\ o\ valor\ total\ da\ soma.\n\n
+comment1.params=geracao
+comment1.target=int\ fibonacci(int)
+comment1.text=\n\ \ calcula\ a\ enesia\ geracao\ de\ fibonacci.\n\n\ \ @param\ geracao,\ a\ geracao\ de\ fibonacci.\n\ \ @return\ ,\ qtd\ de\ membros\ na\ determinada\ geracao.\n\n
+numComments=2

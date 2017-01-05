@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=elem
+comment0.target=void\ push(char)
+comment0.text=\n\ \ Pr\u00E9-condi\u00E7\u00F5es\:\ n\u00E3o\ h\u00E1.\n\ \ P\u00F3s-condi\u00E7\u00F5es\:\ o\ elemento\ est\u00E1\ no\ topo\ da\ pilha\n\ \ \n
+comment1.params=
+comment1.target=char\ pop()
+comment1.text=\n\ \ \n\ \n
+comment2.params=
+comment2.target=char\ peek()
+comment2.text=\n\ \ \n\ \n
+numComments=3

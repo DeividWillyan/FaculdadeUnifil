@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=capacidade
+comment0.target=Pilha(int)
+comment1.params=
+comment1.target=Pilha()
+comment2.params=objeto
+comment2.target=void\ empilhar(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ desempilhar()
+comment4.params=
+comment4.target=java.lang.Object\ topo()
+numComments=5

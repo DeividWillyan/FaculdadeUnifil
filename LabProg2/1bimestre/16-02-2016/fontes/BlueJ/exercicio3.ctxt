@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=verifica
+comment0.target=java.lang.String\ exercicioA(java.lang.String)
+comment0.text=\ \n\ \ Fa\u00E7a\ um\ m\u00E9todo\ static\ na\ classe\ Principal\ que\ recebe\ uma\ String\ por\ par\u00E2me-\n\ \ tro\ e\ indique\ se\ trata-se\ de\ um\ pal\u00EDndromo.\ Por\ exemplo,\ o\ m\u00E9todo\ deve\ indicar\n\ \ \u201COMISSISSIMO\u201D\ como\ pal\u00EDndromo,\ enquanto\ \u201CACUCAR\u201D\ como\ n\u00E3o-pal\u00EDndromo.\n\ \n\ \ @param\ verifica\ o\ parametro\ vereifica\ recebe\ uma\ String\ para\ verificacao\ do\ teste\ de\ palindromo.\n\ \ @return\ retorna\ se\ o\ parametro\ inserido\ \u00E9\ palindromo\ ou\ n\u00E3o.\n\ \n
+comment1.params=verifica
+comment1.target=java.lang.String\ exercicioB(java.lang.String)
+numComments=2
